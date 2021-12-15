@@ -1,0 +1,41 @@
+
+body{
+    background-color: rgb(101, 175, 235);
+    font: normal 15pt sans-serif;
+}
+
+header {
+    color: white;
+    text-align: center;
+}
+
+section {
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 7px black;
+}
+
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+
+#msg, #bom {
+    font-family: 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+#bom {
+    margin-bottom: 20px;
+    font-size: 30px;
+}
+
+div {
+    text-align: center;
+    padding: 25px;
+}
